@@ -84,6 +84,7 @@ echo "Selamat datang, " . $_SESSION['username'];
         <a href="#kegiatan">Kegiatan</a>
         <a href="#statistik">Statistik</a>
         <a href="#pengaturan">Pengaturan</a>
+         <a href="#laporan">laporan</a>
     </div>
 
     <div class="main-content">
